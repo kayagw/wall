@@ -95,64 +95,64 @@
   [
 		{		
       "id"	:	"1",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 1",
-      "image_link"	:	"https://i.pinimg.com/564x/d2/48/f2/d248f2d5732a7bec0e3005221960d6e3.jpg"
+      "image"	:	"https://i.pinimg.com/564x/d2/48/f2/d248f2d5732a7bec0e3005221960d6e3.jpg"
     },		
     {		
       "id"	:	"2",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 2",
-      "image_link"	:	"https://i.pinimg.com/564x/e8/cd/b6/e8cdb609edb3cf655a2a8d6c0fd28242.jpg"
+      "image"	:	"https://i.pinimg.com/564x/e8/cd/b6/e8cdb609edb3cf655a2a8d6c0fd28242.jpg"
     },		
     {		
       "id"	:	"3",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 3",
-      "image_link"	:	"https://i.pinimg.com/564x/f0/cd/98/f0cd98378eddc31972923d5a24394795.jpg"
+      "image"	:	"https://i.pinimg.com/564x/f0/cd/98/f0cd98378eddc31972923d5a24394795.jpg"
     },		
     {		
       "id"	:	"4",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 4",
-      "image_link"	:	"https://i.pinimg.com/564x/83/10/03/8310035d49ea030edeb213891f2be5b0.jpg"
+      "image"	:	"https://i.pinimg.com/564x/83/10/03/8310035d49ea030edeb213891f2be5b0.jpg"
     },		
     {		
       "id"	:	"5",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 5",
-      "image_link"	:	"https://i.pinimg.com/564x/1f/51/5d/1f515d7ee5d609385c33fbf179982b5b.jpg"
+      "image"	:	"https://i.pinimg.com/564x/1f/51/5d/1f515d7ee5d609385c33fbf179982b5b.jpg"
     },		
     {		
       "id"	:	"6",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 6",
-      "image_link"	:	"https://i.pinimg.com/564x/37/ef/44/37ef444246fee8590f888125dc7fb0de.jpg"
+      "image"	:	"https://i.pinimg.com/564x/37/ef/44/37ef444246fee8590f888125dc7fb0de.jpg"
     },		
     {		
       "id"	:	"7",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 7",
-      "image_link"	:	"https://i.pinimg.com/564x/63/00/e6/6300e6160e20900ae63072d927e4988e.jpg"
+      "image"	:	"https://i.pinimg.com/564x/63/00/e6/6300e6160e20900ae63072d927e4988e.jpg"
     },		
     {		
       "id"	:	"8",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 8",
-      "image_link"	:	"https://i.pinimg.com/564x/5d/a9/aa/5da9aa727cef2553dd2d20f705a0e43d.jpg"
+      "image"	:	"https://i.pinimg.com/564x/5d/a9/aa/5da9aa727cef2553dd2d20f705a0e43d.jpg"
     },		
     {		
       "id"	:	"9",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 9",
-      "image_link"	:	"https://i.pinimg.com/564x/25/6b/1c/256b1c3c13e48f099c5a50a01feaf595.jpg"
+      "image"	:	"https://i.pinimg.com/564x/25/6b/1c/256b1c3c13e48f099c5a50a01feaf595.jpg"
     },		
     {		
       "id"	:	"10",
-      "category"	:	"Ninja arashi Wallpaper Trending",
+      "name_category"	:	"Ninja arashi Wallpaper Trending",
       "title"	:	"Ninja arashi Wallpaper HD 10",
-      "image_link"	:	"https://i.pinimg.com/564x/59/a5/d3/59a5d3aa8609eccd6d059e8657a27c61.jpg"
-    }	
+      "image"	:	"https://i.pinimg.com/564x/59/a5/d3/59a5d3aa8609eccd6d059e8657a27c61.jpg"
+    }
 	
   ]
 }
